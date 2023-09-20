@@ -1,0 +1,181 @@
+header main .link {
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 60%;
+    margin-right: 90px;
+    color: white;
+   
+    
+
+ 
+   
+    
+}
+.pesquisa {
+    display:inline-block;
+    font-size: 18px;
+    margin-left: 50px;
+    font-style: italic;
+    color: rgb(142, 142, 142);
+}
+.link a {
+    text-decoration: none;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+header h1 {
+    font-size: 80px;
+    text-shadow: 3px 0px 3px black;
+    color:red;
+    text-align: center;
+}
+.menu_superior {
+    width: 1300px;
+    border: 1px solid black;
+    height: 50px;
+    margin-left: 100px;
+    background-color: rgb(0, 43, 80);
+    position: absolute;
+    
+    
+    
+    
+}
+
+
+
+.palmeiras {
+    width: 800px;
+    height: 800px;
+    background-image: url(palmeiras.jpg);
+    background-size: 800px;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+
+
+    
+    
+    
+
+.texto1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+    color: white;
+    text-indent: 5px;
+    margin-bottom: 100px;
+    margin-top: 48%;
+}
+.The_weeknd {
+    width: 250px;
+    height: 250px;
+    background-image: url(The-Weeknd.jpg);
+    background-size: 340px;
+    margin-top: 100px;
+    position: absolute;
+    margin-left:900px ;
+   
+    
+}
+.Politica {
+    width: 250px;
+    height:200px ;
+    background-image: url(stf-supremo-plenario-24102019151613870.jpeg);
+    background-size:360px ;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 900px;
+}
+.medicos {
+    width: 250px;
+    height:250px ;
+    background-image: url(medicos.jpg);
+    background-size:380px ;
+    margin-top: 100px;
+    position: absolute;
+    margin-left: 1150px;
+
+}
+.arraial {
+    width: 250px;
+    height:200px ;
+    background-image: url(Arraial\ palmas.jpg);
+    background-size:320px ;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 1150px;
+}
+.noticias {
+    display: flex;
+    width: 80%;
+    height: 600px;
+    position: relative;
+    
+    
+   
+    
+}
+.texto2 {
+    margin-top: 70%;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+    color: white;
+}
+.texto3 {
+    margin-top: 60%;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left:10px ;
+    color: white;
+}
+.texto4 {
+    margin-top: 70%;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+    color: white;
+}
+.texto5 {
+    margin-top: 55%;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left:10px ;
+    color: white;
+}
+.img {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    margin-left: 25px;
+    text-align: right;
+    
+}
+.imagens {
+    width: 330px;
+    text-align: right;
+    margin-bottom: 100px;
+    height: 180px;
+    margin-top: 100px;
+}
+footer {
+    width: 1300px;
+    position: relative;   
+    margin-top: 0%;
+    margin-left: 100px;
+    
+}
+body {
+    width: 80%;
+    margin: auto;
+    height: 1200px;
+}
+footer p{
+    text-indent: 25px;
+    font-family: sans-serif;
+    text-align: justify;
+}
